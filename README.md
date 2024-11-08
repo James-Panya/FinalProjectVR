@@ -19,12 +19,12 @@ For this project, I would like to develop an obstacle course reminicent of 2010s
    - Difficulty: Easy - Most likely a trigger and spawns in particles or confetti. SFX is very easy.
 
 ## Milestones
-11/16 - Implement grabbing interaction to pull camera towards more grabbable objects.
-11/23 - Try to recreate Monkey Tag movement.
-11/27 - UI Menu for scene swapping and restarting scene.
-11/30 - Fix the in-game button collision, implement timer at start and end of course, particle effects, and SFX.
-12/7 - Create the obstacle courses in all three scenes and then one big main obstacle course in one scene.
-12/11 - Maybe implement leaderboard. Double-check and should be done by this time.
+1. 11/16 - Implement grabbing interaction to pull camera towards more grabbable objects.
+2. 11/23 - Try to recreate Monkey Tag movement.
+3. 11/27 - UI Menu for scene swapping and restarting scene.
+4. 11/30 - Fix the in-game button collision, implement timer at start and end of course, particle effects, and SFX.
+5. 12/7 - Create the obstacle courses in all three scenes and then one big main obstacle course in one scene.
+6. 12/11 - Maybe implement leaderboard. Double-check and should be done by this time.
 
 ## Inspiration
 - Main inspiration for this obstacle course is America Ninja Warrior. I used to watch this a lot when I was a kid, so being able to create something similar to it would be very surreal.
