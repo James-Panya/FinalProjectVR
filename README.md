@@ -1,4 +1,4 @@
-# Ninja Course VR
+# Final Project VR
 ### James Panya
 
 ## Project Description
