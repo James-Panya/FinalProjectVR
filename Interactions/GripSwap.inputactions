@@ -1,0 +1,62 @@
+{
+    "name": "GripSwap",
+    "maps": [
+        {
+            "name": "LeftGrip",
+            "id": "ce1b9b9e-80f8-42cc-a83f-a4d63effecb3",
+            "actions": [
+                {
+                    "name": "New action",
+                    "type": "Button",
+                    "id": "86323d73-f6eb-4d9b-a325-21f8245e930e",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                }
+            ],
+            "bindings": [
+                {
+                    "name": "",
+                    "id": "60b5dec4-2f2b-4cea-9bbe-9a902effe81b",
+                    "path": "<XRController>{LeftHand}/gripPressed",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "New action",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                }
+            ]
+        },
+        {
+            "name": "RightGrip",
+            "id": "bcf87942-b019-4b82-a23a-e63ce51f39ed",
+            "actions": [
+                {
+                    "name": "New action",
+                    "type": "Button",
+                    "id": "af008ef6-5c6b-4c7f-a28f-d60f91d587c7",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                }
+            ],
+            "bindings": [
+                {
+                    "name": "",
+                    "id": "98e51b62-cb73-449f-90aa-856738d58fb6",
+                    "path": "<XRController>{RightHand}/gripPressed",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "New action",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                }
+            ]
+        }
+    ],
+    "controlSchemes": []
+}
